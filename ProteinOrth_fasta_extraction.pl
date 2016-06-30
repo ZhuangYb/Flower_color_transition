@@ -5,6 +5,7 @@
 # example command used for changing header:
 # perl -i -ne 'BEGIN{$a=1}if($_=~/>/){print ">elegan_TR","$a","\n";$a++}else{print $_}' elegan_c.fasta
 #put all fasta file into same dir as the script
+# To avoid alternative splicing, only the longest transcritp were selected for sub-step aligment analysis
 
 #!/usr/bin/perl -w
 use strict;
