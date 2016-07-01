@@ -92,6 +92,7 @@ foreach $orth_line(@orth_file)
 	$index++;
 	close OUTPUT;
 }
+`rm combined.fasta`;
 
 
 
