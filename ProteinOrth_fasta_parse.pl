@@ -1,3 +1,4 @@
+#happye321@gmail.com
 #This script is used for extract orthogroup DNAs using Proteinorth out put
 #togehter with the original fasta file, each orthgroup will be piled into one 
 #single fasta file, which could be used for sequence alignment.
